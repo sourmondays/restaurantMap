@@ -1,2 +1,2 @@
 # restaurantMap
-Google map webbapplication that displays restaurants
+Google map webbapplication that displays restaurants created with React.js and firestore. A webbapplication where the user can search for restaurants, display restaurants in a list and add new restaurants. For the admin part restaurants that are added by a user can be seen in a list and have to be accepted by the admin before these restaurants will be displayed on the map. Admin also have the ability to create another admin, create restaurants, edit and delete restaurants. 
